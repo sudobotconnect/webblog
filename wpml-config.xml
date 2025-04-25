@@ -1,0 +1,292 @@
+<wpml-config>
+  <custom-types>
+    <custom-type translate="1" display-as-translated="1">elementor_library</custom-type>
+    <custom-type translate="1" display-as-translated="1">product</custom-type>
+    <custom-type translate="1" display-as-translated="1">product_variation</custom-type>
+    <custom-type translate="1" display-as-translated="1">shop_order</custom-type>
+    <custom-type translate="1" display-as-translated="1">shop_order_refund</custom-type>
+    <custom-type translate="1" display-as-translated="1">shop_coupon</custom-type>
+    <custom-type translate="1" display-as-translated="1">wpcf7_contact_form</custom-type>
+    <custom-type translate="1" display-as-translated="1">mc4wp-form</custom-type>
+    <custom-type translate="1" display-as-translated="1">team</custom-type>
+  </custom-types>
+  <taxonomies>
+    <taxonomy translate="1" display-as-translated="1">elementor_library_type</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">elementor_library_category</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">product_type</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">product_visibility</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">product_cat</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">product_tag</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">product_shipping_class</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">pa_color</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">pa_size</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">translation_priority</taxonomy>
+    <taxonomy translate="1" display-as-translated="1">team_category</taxonomy>
+  </taxonomies>
+  <custom-fields>
+    <custom-field action="translate">_wp_page_template</custom-field>
+    <custom-field action="translate">_wp_attached_file</custom-field>
+    <custom-field action="translate">_wp_attachment_metadata</custom-field>
+    <custom-field action="translate">_form</custom-field>
+    <custom-field action="translate">_mail</custom-field>
+    <custom-field action="translate">_mail_2</custom-field>
+    <custom-field action="translate">_messages</custom-field>
+    <custom-field action="translate">_additional_settings</custom-field>
+    <custom-field action="translate">_locale</custom-field>
+    <custom-field action="translate">_wp_attachment_image_alt</custom-field>
+    <custom-field action="translate">wp-smpro-smush-data</custom-field>
+    <custom-field action="translate">axil_views</custom-field>
+    <custom-field action="translate">shared_counts</custom-field>
+    <custom-field action="translate">shared_counts_datetime</custom-field>
+    <custom-field action="translate">_wxr_import_parent</custom-field>
+    <custom-field action="translate">_wp_attachment_context</custom-field>
+    <custom-field action="translate">_wc_attachment_source</custom-field>
+    <custom-field action="translate">_elementor_controls_usage</custom-field>
+    <custom-field action="translate">_mc4wp_settings</custom-field>
+    <custom-field action="translate">text_subscribed</custom-field>
+    <custom-field action="translate">text_invalid_email</custom-field>
+    <custom-field action="translate">text_required_field_missing</custom-field>
+    <custom-field action="translate">text_already_subscribed</custom-field>
+    <custom-field action="translate">text_error</custom-field>
+    <custom-field action="translate">text_unsubscribed</custom-field>
+    <custom-field action="translate">text_not_subscribed</custom-field>
+    <custom-field action="translate">text_no_lists_selected</custom-field>
+    <custom-field action="translate">text_updated</custom-field>
+    <custom-field action="translate">_wp_old_date</custom-field>
+    <custom-field action="translate">_elementor_edit_mode</custom-field>
+    <custom-field action="translate">_elementor_template_type</custom-field>
+    <custom-field action="translate">_elementor_version</custom-field>
+    <custom-field action="translate">_elementor_elements_usage</custom-field>
+    <custom-field action="translate">_elementor_data</custom-field>
+    <custom-field action="translate">_wxr_import_has_attachment_refs</custom-field>
+    <custom-field action="translate">_menu_item_type</custom-field>
+    <custom-field action="translate">_menu_item_menu_item_parent</custom-field>
+    <custom-field action="translate">_menu_item_object_id</custom-field>
+    <custom-field action="translate">_menu_item_object</custom-field>
+    <custom-field action="translate">_menu_item_target</custom-field>
+    <custom-field action="translate">_menu_item_classes</custom-field>
+    <custom-field action="translate">_menu_item_xfn</custom-field>
+    <custom-field action="translate">_menu_item_url</custom-field>
+    <custom-field action="translate">axilnews_layout</custom-field>
+    <custom-field action="translate">axilnews_sidebar</custom-field>
+    <custom-field action="translate">axilnews_page_menu</custom-field>
+    <custom-field action="translate">axilnews_header</custom-field>
+    <custom-field action="translate">axilnews_footer</custom-field>
+    <custom-field action="translate">axilnews_top_padding</custom-field>
+    <custom-field action="translate">axilnews_bottom_padding</custom-field>
+    <custom-field action="translate">axilnews_banner</custom-field>
+    <custom-field action="translate">axilnews_inner_banner_type</custom-field>
+    <custom-field action="translate">axilnews_banner_type</custom-field>
+    <custom-field action="translate">axilnews_breadcrumb</custom-field>
+    <custom-field action="translate">axilnews_footer_top</custom-field>
+    <custom-field action="translate">axilnews_top_bar</custom-field>
+    <custom-field action="translate">axilnews_top_bar_style</custom-field>
+    <custom-field action="translate">axilnews_page_template_fixed</custom-field>
+    <custom-field action="translate">axil_layout</custom-field>
+    <custom-field action="translate">axil_sidebar</custom-field>
+    <custom-field action="translate">axil_top_padding</custom-field>
+    <custom-field action="translate">axil_bottom_padding</custom-field>
+    <custom-field action="translate">axil_page_menu</custom-field>
+    <custom-field action="translate">axil_top_bar</custom-field>
+    <custom-field action="translate">axil_top_bar_style</custom-field>
+    <custom-field action="translate">axil_header</custom-field>
+    <custom-field action="translate">axil_footer_top</custom-field>
+    <custom-field action="translate">axil_footer</custom-field>
+    <custom-field action="translate">axil_banner</custom-field>
+    <custom-field action="translate">axil_inner_banner_type</custom-field>
+    <custom-field action="translate">axil_breadcrumb</custom-field>
+    <custom-field action="translate">axil_banner_type</custom-field>
+    <custom-field action="translate">axil_select_page_template_fixed</custom-field>
+    <custom-field action="translate">axil_header_area</custom-field>
+    <custom-field action="translate">axil_footer_area</custom-field>
+    <custom-field action="translate">axil_page_template_fixed</custom-field>
+    <custom-field action="translate">_oembed_52b2f2d8d18d81a0dc3dcef2907dafb4</custom-field>
+    <custom-field action="translate">_oembed_time_52b2f2d8d18d81a0dc3dcef2907dafb4</custom-field>
+    <custom-field action="translate">_wp_old_slug</custom-field>
+    <custom-field action="translate">axilnews_youtube_video_link</custom-field>
+    <custom-field action="translate">_oembed_2303a19d2b4b0d0b49bd2dea1cb10490</custom-field>
+    <custom-field action="translate">_oembed_time_2303a19d2b4b0d0b49bd2dea1cb10490</custom-field>
+    <custom-field action="translate">_oembed_e339b2995a9ef044eb02e0bf9d7fc11a</custom-field>
+    <custom-field action="translate">_oembed_time_e339b2995a9ef044eb02e0bf9d7fc11a</custom-field>
+    <custom-field action="translate">axilnews_post_layout</custom-field>
+    <custom-field action="translate">_oembed_b3c313802bd1d35150acf5ab24bd649d</custom-field>
+    <custom-field action="translate">_oembed_time_b3c313802bd1d35150acf5ab24bd649d</custom-field>
+    <custom-field action="translate">_oembed_8331a0886c212b6845696e966fc6de92</custom-field>
+    <custom-field action="translate">_oembed_time_8331a0886c212b6845696e966fc6de92</custom-field>
+    <custom-field action="translate">_thumbnail_id</custom-field>
+    <custom-field action="translate">axil_post_layout</custom-field>
+    <custom-field action="translate">_oembed_671157192c48f76f667601070d66bae4</custom-field>
+    <custom-field action="translate">_oembed_time_671157192c48f76f667601070d66bae4</custom-field>
+    <custom-field action="translate">_oembed_20fd6d8fa759a4451ec01f5d7cfde3b5</custom-field>
+    <custom-field action="translate">_oembed_time_20fd6d8fa759a4451ec01f5d7cfde3b5</custom-field>
+    <custom-field action="translate">_oembed_03323a68e0edfd7dfe6a8ced39b1a140</custom-field>
+    <custom-field action="translate">_oembed_time_03323a68e0edfd7dfe6a8ced39b1a140</custom-field>
+    <custom-field action="translate">_oembed_7f9f76c78f5cbf1c1f7a16394d2d1f9a</custom-field>
+    <custom-field action="translate">_oembed_time_7f9f76c78f5cbf1c1f7a16394d2d1f9a</custom-field>
+    <custom-field action="translate">_oembed_702fe3c3a65687ee3c095ae1a2f9f3c0</custom-field>
+    <custom-field action="translate">_oembed_time_702fe3c3a65687ee3c095ae1a2f9f3c0</custom-field>
+    <custom-field action="translate">axil_youtube_video_link</custom-field>
+    <custom-field action="translate">_oembed_cf91558ea9abbba2d2610bfca6718cf5</custom-field>
+    <custom-field action="translate">_oembed_time_cf91558ea9abbba2d2610bfca6718cf5</custom-field>
+    <custom-field action="translate">_oembed_8fb706a2de8c85f24705c8b95baeaaf3</custom-field>
+    <custom-field action="translate">_oembed_time_8fb706a2de8c85f24705c8b95baeaaf3</custom-field>
+    <custom-field action="translate">_oembed_6b960c97effd0e2d0059340ce494d419</custom-field>
+    <custom-field action="translate">_oembed_time_6b960c97effd0e2d0059340ce494d419</custom-field>
+    <custom-field action="translate">_oembed_f5966d1644834d50b53df09d6c083e13</custom-field>
+    <custom-field action="translate">_oembed_time_f5966d1644834d50b53df09d6c083e13</custom-field>
+    <custom-field action="translate">_oembed_4787a9eca3e0d7c873fd3870ae298f6a</custom-field>
+    <custom-field action="translate">_oembed_time_4787a9eca3e0d7c873fd3870ae298f6a</custom-field>
+    <custom-field action="translate">_oembed_2c6f8de2745d42cd8a0eacddb7f5e705</custom-field>
+    <custom-field action="translate">_oembed_time_2c6f8de2745d42cd8a0eacddb7f5e705</custom-field>
+    <custom-field action="translate">_oembed_184f876b8fedf43d29522ee8339cd3ae</custom-field>
+    <custom-field action="translate">_oembed_time_184f876b8fedf43d29522ee8339cd3ae</custom-field>
+    <custom-field action="translate">_oembed_f40b5dd88849b4d8748264c4fe276828</custom-field>
+    <custom-field action="translate">_oembed_time_f40b5dd88849b4d8748264c4fe276828</custom-field>
+    <custom-field action="translate">_oembed_c90f10a20cd654a842a7a92700ca422c</custom-field>
+    <custom-field action="translate">_oembed_time_c90f10a20cd654a842a7a92700ca422c</custom-field>
+    <custom-field action="translate">_oembed_bd4dec166f16bf88f679fd53c47cf4de</custom-field>
+    <custom-field action="translate">_oembed_time_bd4dec166f16bf88f679fd53c47cf4de</custom-field>
+    <custom-field action="translate">_oembed_98b6490c5a2428c9523daac275f4ca59</custom-field>
+    <custom-field action="translate">_oembed_time_98b6490c5a2428c9523daac275f4ca59</custom-field>
+    <custom-field action="translate">_sku</custom-field>
+    <custom-field action="translate">total_sales</custom-field>
+    <custom-field action="translate">_tax_status</custom-field>
+    <custom-field action="translate">_tax_class</custom-field>
+    <custom-field action="translate">_manage_stock</custom-field>
+    <custom-field action="translate">_backorders</custom-field>
+    <custom-field action="translate">_sold_individually</custom-field>
+    <custom-field action="translate">_virtual</custom-field>
+    <custom-field action="translate">_downloadable</custom-field>
+    <custom-field action="translate">_download_limit</custom-field>
+    <custom-field action="translate">_download_expiry</custom-field>
+    <custom-field action="translate">_stock</custom-field>
+    <custom-field action="translate">_stock_status</custom-field>
+    <custom-field action="translate">_wc_average_rating</custom-field>
+    <custom-field action="translate">_wc_review_count</custom-field>
+    <custom-field action="translate">_product_version</custom-field>
+    <custom-field action="translate">_wpcom_is_markdown</custom-field>
+    <custom-field action="translate">_product_image_gallery</custom-field>
+    <custom-field action="translate">_product_attributes</custom-field>
+    <custom-field action="translate">_price</custom-field>
+    <custom-field action="translate">_oembed_29627c1ea63aa72f8e042929e555330f</custom-field>
+    <custom-field action="translate">_oembed_time_29627c1ea63aa72f8e042929e555330f</custom-field>
+    <custom-field action="translate">_regular_price</custom-field>
+    <custom-field action="translate">_sale_price</custom-field>
+    <custom-field action="translate">_downloadable_files</custom-field>
+    <custom-field action="translate">_variation_description</custom-field>
+    <custom-field action="translate">attribute_pa_color</custom-field>
+    <custom-field action="translate">attribute_pa_size</custom-field>
+    <custom-field action="translate">_children</custom-field>
+    <custom-field action="translate">_product_url</custom-field>
+    <custom-field action="translate">_button_text</custom-field>
+    <custom-field action="translate">axil_team_designation</custom-field>
+    <custom-field action="translate">axil_facebook</custom-field>
+    <custom-field action="translate">axil_twitter</custom-field>
+    <custom-field action="translate">axil_linkedin</custom-field>
+    <custom-field action="translate">axil_pinterest</custom-field>
+    <custom-field action="translate">attribute_logo</custom-field>
+    <custom-field action="translate">_order_key</custom-field>
+    <custom-field action="translate">_customer_user</custom-field>
+    <custom-field action="translate">_payment_method</custom-field>
+    <custom-field action="translate">_payment_method_title</custom-field>
+    <custom-field action="translate">_customer_ip_address</custom-field>
+    <custom-field action="translate">_customer_user_agent</custom-field>
+    <custom-field action="translate">_created_via</custom-field>
+    <custom-field action="translate">_cart_hash</custom-field>
+    <custom-field action="translate">_billing_first_name</custom-field>
+    <custom-field action="translate">_billing_last_name</custom-field>
+    <custom-field action="translate">_billing_company</custom-field>
+    <custom-field action="translate">_billing_address_1</custom-field>
+    <custom-field action="translate">_billing_city</custom-field>
+    <custom-field action="translate">_billing_state</custom-field>
+    <custom-field action="translate">_billing_postcode</custom-field>
+    <custom-field action="translate">_billing_country</custom-field>
+    <custom-field action="translate">_billing_email</custom-field>
+    <custom-field action="translate">_billing_phone</custom-field>
+    <custom-field action="translate">_shipping_first_name</custom-field>
+    <custom-field action="translate">_shipping_last_name</custom-field>
+    <custom-field action="translate">_shipping_company</custom-field>
+    <custom-field action="translate">_shipping_address_1</custom-field>
+    <custom-field action="translate">_shipping_city</custom-field>
+    <custom-field action="translate">_shipping_state</custom-field>
+    <custom-field action="translate">_shipping_postcode</custom-field>
+    <custom-field action="translate">_shipping_country</custom-field>
+    <custom-field action="translate">_order_currency</custom-field>
+    <custom-field action="translate">_cart_discount</custom-field>
+    <custom-field action="translate">_cart_discount_tax</custom-field>
+    <custom-field action="translate">_order_shipping</custom-field>
+    <custom-field action="translate">_order_shipping_tax</custom-field>
+    <custom-field action="translate">_order_tax</custom-field>
+    <custom-field action="translate">_order_total</custom-field>
+    <custom-field action="translate">_order_version</custom-field>
+    <custom-field action="translate">_prices_include_tax</custom-field>
+    <custom-field action="translate">_billing_address_index</custom-field>
+    <custom-field action="translate">_shipping_address_index</custom-field>
+    <custom-field action="translate">is_vat_exempt</custom-field>
+    <custom-field action="translate">_recorded_sales</custom-field>
+    <custom-field action="translate">_recorded_coupon_usage_counts</custom-field>
+    <custom-field action="translate">_order_stock_reduced</custom-field>
+    <custom-field action="translate">_edit_lock</custom-field>
+    <custom-field action="translate">_edit_last</custom-field>
+    <custom-field action="translate">xs_public_review_data</custom-field>
+    <custom-field action="translate">xs_review_overview_settings</custom-field>
+    <custom-field action="translate">wp_review_type</custom-field>
+    <custom-field action="translate">wp_review_custom_location</custom-field>
+    <custom-field action="translate">wp_review_custom_colors</custom-field>
+    <custom-field action="translate">wp_review_custom_author</custom-field>
+    <custom-field action="translate">wp_review_location</custom-field>
+    <custom-field action="translate">wp_review_heading</custom-field>
+    <custom-field action="translate">wp_review_desc_title</custom-field>
+    <custom-field action="translate">wp_review_desc</custom-field>
+    <custom-field action="translate">wp_review_userreview</custom-field>
+    <custom-field action="translate">wp_review_total</custom-field>
+    <custom-field action="translate">wp_review_fontcolor</custom-field>
+    <custom-field action="translate">wp_review_bgcolor1</custom-field>
+    <custom-field action="translate">wp_review_bgcolor2</custom-field>
+    <custom-field action="translate">wp_review_bordercolor</custom-field>
+    <custom-field action="translate">wp_review_schema</custom-field>
+    <custom-field action="translate">wp_review_rating_schema</custom-field>
+    <custom-field action="translate">wp_review_show_schema_data</custom-field>
+    <custom-field action="translate">wp_review_user_review_type</custom-field>
+    <custom-field action="translate">wp_review_box_template</custom-field>
+    <custom-field action="translate">wp_review_user_reviews</custom-field>
+    <custom-field action="translate">wp_review_review_count</custom-field>
+    <custom-field action="translate">wp_review_positive_count</custom-field>
+    <custom-field action="translate">wp_review_negative_count</custom-field>
+    <custom-field action="translate">wp_review_links</custom-field>
+    <custom-field action="translate">wp_review_item</custom-field>
+    <custom-field action="translate">wp_review_product_price</custom-field>
+    <custom-field action="translate">_assigned_to</custom-field>
+    <custom-field action="translate">_author</custom-field>
+    <custom-field action="translate">_avatar</custom-field>
+    <custom-field action="translate">_content</custom-field>
+    <custom-field action="translate">_custom</custom-field>
+    <custom-field action="translate">_date</custom-field>
+    <custom-field action="translate">_email</custom-field>
+    <custom-field action="translate">_ip_address</custom-field>
+    <custom-field action="translate">_pinned</custom-field>
+    <custom-field action="translate">_rating</custom-field>
+    <custom-field action="translate">_response</custom-field>
+    <custom-field action="translate">_review_id</custom-field>
+    <custom-field action="translate">_review_type</custom-field>
+    <custom-field action="translate">_title</custom-field>
+    <custom-field action="translate">_url</custom-field>
+    <custom-field action="translate">_json</custom-field>
+    <custom-field action="translate">_a3_pvc_activated</custom-field>
+    <custom-field action="translate">_amp_validated_environment</custom-field>
+    <custom-field action="translate">_amp_queried_object</custom-field>
+    <custom-field action="translate">ampforwp-amp-on-off</custom-field>
+    <custom-field action="translate">amp-page-builder</custom-field>
+    <custom-field action="translate">ampforwp_custom_content_editor</custom-field>
+    <custom-field action="translate">ampforwp_custom_content_editor_checkbox</custom-field>
+    <custom-field action="translate">ampforwp-redirection-on-off</custom-field>
+    <custom-field action="translate">_menu_item_orphaned</custom-field>
+    <custom-field action="translate">_elementor_page_settings</custom-field>
+    <custom-field action="translate">_pingme</custom-field>
+    <custom-field action="translate">_encloseme</custom-field>
+    <custom-field action="translate">_elementor_css</custom-field>
+    <custom-field action="translate">wpml_media_processed</custom-field>
+    <custom-field action="translate">_wpml_media_duplicate</custom-field>
+    <custom-field action="translate">_wpml_media_featured</custom-field>
+  </custom-fields>
+</wpml-config>
